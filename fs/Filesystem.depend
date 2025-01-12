@@ -1,0 +1,175 @@
+# depslib dependency file v1.0
+1722442903 source:d:\workspace\filesystem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<gtk/gtk.h>
+	"filesystem.h"
+
+1722441351 d:\workspace\filesystem\filesystem.h
+	"file_properties.h"
+
+1722423107 d:\workspace\filesystem\run_filesystem.h
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<dirent.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<errno.h>
+	"Filesystem.h"
+
+1722422570 d:\workspace\filesystem\filesystem_explorer.h
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<dirent.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<errno.h>
+	<fcntl.h>
+	<time.h>
+	"Filesystem_Explorer.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dirent.h>
+	<sys/stat.h>
+	<time.h>
+
+1722421205 d:\workspace\filesystem\windowui.h
+	<gtk/gtk.h>
+	"Filesystem.h"
+
+1722421742 source:d:\workspace\filesystem\windowui.c
+	"WindowUI.h"
+	"Filesystem.h"
+
+1722435225 source:d:\workspace\filesystem\filesystem.c
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<errno.h>
+	"filesystem.h"
+	"file_properties.h"
+
+1722441321 d:\workspace\filesystem\file_properties.h
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<dirent.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<errno.h>
+
+1722441346 source:d:\workspace\filesystem\file_properties.c
+	<stdio.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<errno.h>
+	<string.h>
+	"file_properties.h"
+
+1722436432 source:d:\workspace\filesystem\custorm_functions.c
+	"Custom_functions.h"
+	"filesystem.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<fcntl.h>
+	<sys/stat.h>
+	<unistd.h>
+
+1722436559 d:\workspace\filesystem\custom_functions.h
+	<sys/types.h>
+	<dirent.h>
+
+1722436722 source:d:\workspace\filesystem\utilities.c
+	"filesystem.h"
+	"custom_functions.h"
+	<string.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<sys/stat.h>
+	<unistd.h>
+
+1722441346 source:d:\school-2\filesystem\file_properties.c
+	<stdio.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<errno.h>
+	<string.h>
+	"file_properties.h"
+
+1722441321 d:\school-2\filesystem\file_properties.h
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<dirent.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<errno.h>
+
+1722435225 source:d:\school-2\filesystem\filesystem.c
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<errno.h>
+	"filesystem.h"
+	"file_properties.h"
+
+1722441351 d:\school-2\filesystem\filesystem.h
+	"file_properties.h"
+
+1722582704 source:d:\school-2\filesystem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<gtk/gtk.h>
+	"filesystem.h"
+
+1722441348 source:d:\filesystem\fs\file_properties.c
+	<stdio.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<errno.h>
+	<string.h>
+	"file_properties.h"
+
+1722441322 d:\filesystem\fs\file_properties.h
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<dirent.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<errno.h>
+
+1722435226 source:d:\filesystem\fs\filesystem.c
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<errno.h>
+	"filesystem.h"
+	"file_properties.h"
+
+1722441352 d:\filesystem\fs\filesystem.h
+	"file_properties.h"
+
+1722584446 source:d:\filesystem\fs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<gtk/gtk.h>
+	"filesystem.h"
+
